@@ -4,4 +4,4 @@ __pycache__/
 .coverage
 data/*.sqlite
 agents/
-master_Mladenov_Aleksandar_2025.pdf
+files/
